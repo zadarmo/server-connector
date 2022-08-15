@@ -1,6 +1,6 @@
 # server_connector
 
-A simple tool for developers that can perform operations on server with just a few line of codes.
+A simple tool for developers to perform operations on server with just a few line of codes.
 
 # install
 ```cmd
